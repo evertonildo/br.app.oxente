@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "br.app.oxente",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "br.app.oxente",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
